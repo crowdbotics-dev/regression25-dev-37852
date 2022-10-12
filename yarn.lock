@@ -1035,6 +1035,9 @@
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
 
+"@modules/privacy-policy-webview@file:./modules/privacy-policy-webview/":
+  version "1.0.0"
+
 "@modules/social-login@file:./modules/social-login":
   version "1.0.0"
   dependencies:
@@ -1272,9 +1275,6 @@
     reselect "^4.1.5"
 
 "@screens/account-settings@file:./screens/account-settings":
-  version "1.0.0"
-
-"@screens/account-settings@file:./screens/account-settings/":
   version "1.0.0"
 
 "@screens/cart@file:./screens/cart":
