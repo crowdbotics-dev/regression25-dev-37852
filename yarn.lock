@@ -1277,9 +1277,6 @@
 "@screens/cart@file:./screens/cart":
   version "1.0.0"
 
-"@screens/cart@file:./screens/cart/":
-  version "1.0.0"
-
 "@screens/food-category@file:./screens/food-category":
   version "1.0.0"
 
@@ -1305,6 +1302,9 @@
   version "1.0.0"
 
 "@screens/product-details@file:./screens/product-details":
+  version "1.0.0"
+
+"@screens/product-details@file:./screens/product-details/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
