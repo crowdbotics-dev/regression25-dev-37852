@@ -1292,10 +1292,10 @@
 "@screens/order-invoice@file:./screens/order-invoice":
   version "1.0.0"
 
-"@screens/order-success@file:./screens/order-success":
+"@screens/order-invoice@file:./screens/order-invoice/":
   version "1.0.0"
 
-"@screens/order-success@file:./screens/order-success/":
+"@screens/order-success@file:./screens/order-success":
   version "1.0.0"
 
 "@screens/order-summary@file:./screens/order-summary":
