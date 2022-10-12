@@ -1298,10 +1298,10 @@
 "@screens/order-summary@file:./screens/order-summary":
   version "1.0.0"
 
-"@screens/orders-in-progress@file:./screens/orders-in-progress":
+"@screens/order-summary@file:./screens/order-summary/":
   version "1.0.0"
 
-"@screens/orders-in-progress@file:./screens/orders-in-progress/":
+"@screens/orders-in-progress@file:./screens/orders-in-progress":
   version "1.0.0"
 
 "@screens/product-details@file:./screens/product-details":
