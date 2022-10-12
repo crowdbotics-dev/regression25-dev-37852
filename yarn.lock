@@ -1286,13 +1286,13 @@
 "@screens/order-checkout@file:./screens/order-checkout":
   version "1.0.0"
 
+"@screens/order-checkout@file:./screens/order-checkout/":
+  version "1.0.0"
+
 "@screens/order-details@file:./screens/order-details":
   version "1.0.0"
 
 "@screens/order-invoice@file:./screens/order-invoice":
-  version "1.0.0"
-
-"@screens/order-invoice@file:./screens/order-invoice/":
   version "1.0.0"
 
 "@screens/order-success@file:./screens/order-success":
