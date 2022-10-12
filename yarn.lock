@@ -1050,6 +1050,9 @@
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
 
+"@modules/splash@file:./modules/splash/":
+  version "1.0.0"
+
 "@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview":
   version "1.0.0"
 
@@ -1281,9 +1284,6 @@
   version "1.0.0"
 
 "@screens/meal-product-listing@file:./screens/meal-product-listing":
-  version "1.0.0"
-
-"@screens/meal-product-listing@file:./screens/meal-product-listing/":
   version "1.0.0"
 
 "@screens/order-checkout@file:./screens/order-checkout":
