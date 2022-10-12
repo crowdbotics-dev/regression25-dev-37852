@@ -1050,7 +1050,7 @@
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
 
-"@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview/":
+"@modules/terms-and-conditions-webview@file:./modules/terms-and-conditions-webview":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
@@ -1287,6 +1287,9 @@
   version "1.0.0"
 
 "@screens/order-details@file:./screens/order-details":
+  version "1.0.0"
+
+"@screens/order-details@file:./screens/order-details/":
   version "1.0.0"
 
 "@screens/order-invoice@file:./screens/order-invoice":
