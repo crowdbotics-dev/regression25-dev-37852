@@ -1032,6 +1032,12 @@
     prop-types "^15.8.1"
     react-native-app-intro-slider "^4.0.4"
 
+"@modules/onboarding@file:./modules/onboarding/":
+  version "1.0.0"
+  dependencies:
+    prop-types "^15.8.1"
+    react-native-app-intro-slider "^4.0.4"
+
 "@modules/privacy-policy-webview@file:./modules/privacy-policy-webview":
   version "1.0.0"
 
@@ -1278,9 +1284,6 @@
   version "1.0.0"
 
 "@screens/food-category@file:./screens/food-category":
-  version "1.0.0"
-
-"@screens/food-category@file:./screens/food-category/":
   version "1.0.0"
 
 "@screens/meal-product-listing@file:./screens/meal-product-listing":
