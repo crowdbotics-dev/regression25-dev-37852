@@ -1,4 +1,4 @@
-from .models import Himanshutest, Test
+from .models import Usertest, Test
 from django.views.generic import CreateView, UpdateView, DetailView, ListView
 from django.shortcuts import render
 
