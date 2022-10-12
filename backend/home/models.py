@@ -15,3 +15,8 @@ class Himanshutest(models.Model):
 class Usertest(models.Model):
     "Generated Model"
     addedtestadata = models.BigIntegerField()
+
+
+class Addeddata(models.Model):
+    "Generated Model"
+    himanshu = models.BigIntegerField()
