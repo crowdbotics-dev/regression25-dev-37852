@@ -10,3 +10,8 @@ class Test(models.Model):
 class Himanshutest(models.Model):
     "Generated Model"
     user = models.BigIntegerField()
+
+
+class Usertest(models.Model):
+    "Generated Model"
+    addedtestadata = models.BigIntegerField()
