@@ -1277,6 +1277,9 @@
 "@screens/cart@file:./screens/cart":
   version "1.0.0"
 
+"@screens/cart@file:./screens/cart/":
+  version "1.0.0"
+
 "@screens/food-category@file:./screens/food-category":
   version "1.0.0"
 
@@ -1284,9 +1287,6 @@
   version "1.0.0"
 
 "@screens/order-checkout@file:./screens/order-checkout":
-  version "1.0.0"
-
-"@screens/order-checkout@file:./screens/order-checkout/":
   version "1.0.0"
 
 "@screens/order-details@file:./screens/order-details":
