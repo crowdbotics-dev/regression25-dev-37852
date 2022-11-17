@@ -1,6 +1,6 @@
 from rest_framework import viewsets
-from home.models import Usertest
-from .serializers import UsertestSerializer
+from home.models import Aaabbb,Usertest
+from .serializers import AaabbbSerializer,UsertestSerializer
 from rest_framework import authentication
 from rest_framework.authtoken.serializers import AuthTokenSerializer
 from rest_framework.viewsets import ModelViewSet, ViewSet
@@ -41,3 +41,8 @@ class UsertestViewSet(viewsets.ModelViewSet):
         authentication.TokenAuthentication,
     )
     queryset = Usertest.objects.all()
+
+class AaabbbViewSet(viewsets.ModelViewSet):
+    serializer_class = AaabbbSerializer
+    authentication_classes = (authentication.SessionAuthentication, authentication.TokenAuthentication)
+    queryset = Aaabbb.objects.all()
